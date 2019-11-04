@@ -1,9 +1,11 @@
 SUPPORTED_DISTROS=("Debian_8.0"
                    "Debian_9.0"
+                   "Debian_10"
                    "xUbuntu_14.04"
                    "xUbuntu_16.04"
                    "xUbuntu_18.04"
-                   "xUbuntu_18.10")
+                   "xUbuntu_18.10"
+                   "xUbuntu_19.10")
 
 function check_obs_distro
 {
